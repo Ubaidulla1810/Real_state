@@ -23,7 +23,7 @@ Clone the repository:https://github.com/Ubaidulla1810/Real_state.git
 
 ## Live Demo
 
-You can check out the live preview of the project here:
+You can check out the live preview of the project here: https://real-state-sage.vercel.app
 
 ## Usage
 
