@@ -1,4 +1,4 @@
-Real State Website (Frontend)
+Real State Website
 
 This is a real estate website built using React + Vite. It provides a modern and interactive UI for browsing real estate properties. The frontend includes navigation links that take users to different sections of the website.
 
@@ -39,7 +39,7 @@ Feel free to fork and contribute to enhance the features.
 
 If you have any feedback or suggestions, feel free to reach out
 - Email: ubaidullacse01@gmail.com
-- GitHub: Ubaidulla1810
+- GitHub: [Ubaidulla1810](https://github.com/Ubaidulla1810)
 
 
 
